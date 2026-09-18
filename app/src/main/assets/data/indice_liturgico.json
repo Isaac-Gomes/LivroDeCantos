@@ -1,0 +1,1815 @@
+[
+  {
+    "id": 1,
+    "cantoId": 3,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "A cordeira de Deus",
+    "paginaFichaOriginal": "23"
+  },
+  {
+    "id": 2,
+    "cantoId": 18,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Alegria, nasceu o Salvador",
+    "paginaFichaOriginal": "38"
+  },
+  {
+    "id": 3,
+    "cantoId": 24,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "As armas da luz",
+    "paginaFichaOriginal": "44"
+  },
+  {
+    "id": 4,
+    "cantoId": 33,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Bendito seja Deus",
+    "paginaFichaOriginal": "53"
+  },
+  {
+    "id": 5,
+    "cantoId": 44,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Chegue à tua presença meu clamor",
+    "paginaFichaOriginal": "64"
+  },
+  {
+    "id": 6,
+    "cantoId": 51,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Consolai o meu povo",
+    "paginaFichaOriginal": "71"
+  },
+  {
+    "id": 7,
+    "cantoId": 58,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Dizei aos de coração cansado",
+    "paginaFichaOriginal": "79"
+  },
+  {
+    "id": 8,
+    "cantoId": 60,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Eis-me aqui que venho em breve",
+    "paginaFichaOriginal": "82"
+  },
+  {
+    "id": 9,
+    "cantoId": 68,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Escutai, ilhas de longe",
+    "paginaFichaOriginal": "89"
+  },
+  {
+    "id": 10,
+    "cantoId": 90,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Hino do Advento",
+    "paginaFichaOriginal": "110"
+  },
+  {
+    "id": 11,
+    "cantoId": 94,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Já vem o meu Deus",
+    "paginaFichaOriginal": "114"
+  },
+  {
+    "id": 12,
+    "cantoId": 97,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Leva-me ao céu",
+    "paginaFichaOriginal": "117"
+  },
+  {
+    "id": 13,
+    "cantoId": 105,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Maria, mãe do caminho ardente",
+    "paginaFichaOriginal": "125"
+  },
+  {
+    "id": 14,
+    "cantoId": 114,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Ó céus, chovei do alto",
+    "paginaFichaOriginal": "134"
+  },
+  {
+    "id": 15,
+    "cantoId": 124,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "O povo que caminhava nas trevas",
+    "paginaFichaOriginal": "144"
+  },
+  {
+    "id": 16,
+    "cantoId": 195,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Tu és a minha esperança, Senhor",
+    "paginaFichaOriginal": "260"
+  },
+  {
+    "id": 17,
+    "cantoId": 166,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Um grande sinal",
+    "paginaFichaOriginal": "188"
+  },
+  {
+    "id": 18,
+    "cantoId": 167,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Um rebento brota do tronco de Jessé",
+    "paginaFichaOriginal": "189"
+  },
+  {
+    "id": 19,
+    "cantoId": 168,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Uri, uri, uri, urá",
+    "paginaFichaOriginal": "190"
+  },
+  {
+    "id": 20,
+    "cantoId": 169,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Vamos já, pastores",
+    "paginaFichaOriginal": "191"
+  },
+  {
+    "id": 21,
+    "cantoId": 172,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Vem, filho do homem",
+    "paginaFichaOriginal": "194"
+  },
+  {
+    "id": 22,
+    "cantoId": 173,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Vem o Senhor",
+    "paginaFichaOriginal": "195"
+  },
+  {
+    "id": 23,
+    "cantoId": 175,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Virgem da maravilha",
+    "paginaFichaOriginal": "197"
+  },
+  {
+    "id": 24,
+    "cantoId": 176,
+    "subcategoria": "Advento-Natal",
+    "tituloOriginal": "Vivei alegres",
+    "paginaFichaOriginal": "198"
+  },
+  {
+    "id": 25,
+    "cantoId": 4,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A espada",
+    "paginaFichaOriginal": "24"
+  },
+  {
+    "id": 26,
+    "cantoId": 5,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A marcha é dura",
+    "paginaFichaOriginal": "25"
+  },
+  {
+    "id": 27,
+    "cantoId": null,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A ti levanto os meus olhos",
+    "paginaFichaOriginal": "27"
+  },
+  {
+    "id": 28,
+    "cantoId": 8,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A ti, Senhor, com minha voz gritando imploro",
+    "paginaFichaOriginal": "28"
+  },
+  {
+    "id": 29,
+    "cantoId": 9,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A ti, Senhor, levanto minha alma",
+    "paginaFichaOriginal": "29"
+  },
+  {
+    "id": 30,
+    "cantoId": 10,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "A ti, Senhor, se deve o louvor em Sião",
+    "paginaFichaOriginal": "30"
+  },
+  {
+    "id": 31,
+    "cantoId": 22,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Amo o Senhor",
+    "paginaFichaOriginal": "42"
+  },
+  {
+    "id": 32,
+    "cantoId": 23,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Ao despertar",
+    "paginaFichaOriginal": "43"
+  },
+  {
+    "id": 33,
+    "cantoId": 24,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "As armas da luz",
+    "paginaFichaOriginal": "44"
+  },
+  {
+    "id": 34,
+    "cantoId": 25,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Assim fala o amém",
+    "paginaFichaOriginal": "45"
+  },
+  {
+    "id": 35,
+    "cantoId": 26,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Até quando?",
+    "paginaFichaOriginal": "46"
+  },
+  {
+    "id": 36,
+    "cantoId": 29,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Babilônia criminal",
+    "paginaFichaOriginal": "49"
+  },
+  {
+    "id": 37,
+    "cantoId": 31,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Bendirei o Senhor em todo tempo",
+    "paginaFichaOriginal": "51"
+  },
+  {
+    "id": 38,
+    "cantoId": 35,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Bendize, minha alma, a Iahweh",
+    "paginaFichaOriginal": "55"
+  },
+  {
+    "id": 39,
+    "cantoId": 42,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Caritas Christi urget nos",
+    "paginaFichaOriginal": "62"
+  },
+  {
+    "id": 40,
+    "cantoId": 44,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Chegue à tua presença meu clamor",
+    "paginaFichaOriginal": "64"
+  },
+  {
+    "id": 41,
+    "cantoId": 45,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Como a corça",
+    "paginaFichaOriginal": "65"
+  },
+  {
+    "id": 42,
+    "cantoId": 48,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Como ovelha que vê",
+    "paginaFichaOriginal": "68"
+  },
+  {
+    "id": 43,
+    "cantoId": 49,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Como são amáveis tuas moradas",
+    "paginaFichaOriginal": "69"
+  },
+  {
+    "id": 44,
+    "cantoId": 50,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Confessei a ti o meu pecado",
+    "paginaFichaOriginal": "70"
+  },
+  {
+    "id": 45,
+    "cantoId": 54,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "De profundis",
+    "paginaFichaOriginal": "75"
+  },
+  {
+    "id": 46,
+    "cantoId": 58,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Dizei aos de coração cansado",
+    "paginaFichaOriginal": "79"
+  },
+  {
+    "id": 47,
+    "cantoId": 61,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Eis o meu servo",
+    "paginaFichaOriginal": "81"
+  },
+  {
+    "id": 48,
+    "cantoId": 182,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Eis que o nosso espelho é o Senhor",
+    "paginaFichaOriginal": "247"
+  },
+  {
+    "id": 49,
+    "cantoId": 62,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Eli, Eli, lamá sabactani",
+    "paginaFichaOriginal": "83"
+  },
+  {
+    "id": 50,
+    "cantoId": 69,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Esperei, esperei no Senhor",
+    "paginaFichaOriginal": "90"
+  },
+  {
+    "id": 51,
+    "cantoId": 73,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Estendo minhas mãos",
+    "paginaFichaOriginal": "93"
+  },
+  {
+    "id": 52,
+    "cantoId": 74,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Estou chamando-te",
+    "paginaFichaOriginal": "94"
+  },
+  {
+    "id": 53,
+    "cantoId": 81,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Filhas de Jerusalém",
+    "paginaFichaOriginal": "101"
+  },
+  {
+    "id": 54,
+    "cantoId": 91,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Iahweh, tu és meu Deus",
+    "paginaFichaOriginal": "111"
+  },
+  {
+    "id": 55,
+    "cantoId": 93,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Impropérios",
+    "paginaFichaOriginal": "113"
+  },
+  {
+    "id": 56,
+    "cantoId": 98,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Levanto os meus olhos para os montes",
+    "paginaFichaOriginal": "118"
+  },
+  {
+    "id": 57,
+    "cantoId": 104,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Maria, mãe da Igreja",
+    "paginaFichaOriginal": "124"
+  },
+  {
+    "id": 58,
+    "cantoId": 106,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Maria, pequena Maria",
+    "paginaFichaOriginal": "126"
+  },
+  {
+    "id": 59,
+    "cantoId": 108,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Misericórdia minha, misericórdia",
+    "paginaFichaOriginal": "128"
+  },
+  {
+    "id": 60,
+    "cantoId": 186,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Não sofras pelos malvados",
+    "paginaFichaOriginal": "251"
+  },
+  {
+    "id": 61,
+    "cantoId": 119,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Ó Jesus, meu amor",
+    "paginaFichaOriginal": "139"
+  },
+  {
+    "id": 62,
+    "cantoId": 135,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Por que confabulam as nações?",
+    "paginaFichaOriginal": "155"
+  },
+  {
+    "id": 63,
+    "cantoId": 137,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Porque o meu jugo é suave",
+    "paginaFichaOriginal": "157"
+  },
+  {
+    "id": 64,
+    "cantoId": 139,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Quando o Senhor",
+    "paginaFichaOriginal": "159"
+  },
+  {
+    "id": 65,
+    "cantoId": 142,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Quem nos separará",
+    "paginaFichaOriginal": "162"
+  },
+  {
+    "id": 66,
+    "cantoId": 144,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Quero cantar",
+    "paginaFichaOriginal": "164"
+  },
+  {
+    "id": 67,
+    "cantoId": 146,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Salve rainha",
+    "paginaFichaOriginal": "167"
+  },
+  {
+    "id": 68,
+    "cantoId": 149,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Se me refugiei no Senhor",
+    "paginaFichaOriginal": "170"
+  },
+  {
+    "id": 69,
+    "cantoId": 153,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Senhor, ajuda-me a não duvidar de ti",
+    "paginaFichaOriginal": "174"
+  },
+  {
+    "id": 70,
+    "cantoId": 154,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Senhor, não me corrijas na tua cólera",
+    "paginaFichaOriginal": "175"
+  },
+  {
+    "id": 71,
+    "cantoId": 193,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Senta-te solitário e silencioso",
+    "paginaFichaOriginal": "258"
+  },
+  {
+    "id": 72,
+    "cantoId": 159,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Só a só",
+    "paginaFichaOriginal": "181"
+  },
+  {
+    "id": 73,
+    "cantoId": 161,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Stabat mater dolorosa",
+    "paginaFichaOriginal": "183"
+  },
+  {
+    "id": 74,
+    "cantoId": 165,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Tu que és fiel",
+    "paginaFichaOriginal": "187"
+  },
+  {
+    "id": 75,
+    "cantoId": 179,
+    "subcategoria": "Quaresma",
+    "tituloOriginal": "Zaqueu",
+    "paginaFichaOriginal": "201"
+  },
+  {
+    "id": 76,
+    "cantoId": 1,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "A cabana dos pastores",
+    "paginaFichaOriginal": "21"
+  },
+  {
+    "id": 77,
+    "cantoId": 196,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "À ceia do cordeiro",
+    "paginaFichaOriginal": "261"
+  },
+  {
+    "id": 78,
+    "cantoId": 11,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "À vítima Pascal",
+    "paginaFichaOriginal": "31"
+  },
+  {
+    "id": 79,
+    "cantoId": 12,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "A voz do meu amado",
+    "paginaFichaOriginal": "32"
+  },
+  {
+    "id": 80,
+    "cantoId": 13,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Abba, Pai",
+    "paginaFichaOriginal": "33"
+  },
+  {
+    "id": 81,
+    "cantoId": 16,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Akedá",
+    "paginaFichaOriginal": "36"
+  },
+  {
+    "id": 82,
+    "cantoId": 19,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Aleluia! Bendizei o Senhor",
+    "paginaFichaOriginal": "39"
+  },
+  {
+    "id": 83,
+    "cantoId": 20,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Aleluia! Já chegou o reino",
+    "paginaFichaOriginal": "40"
+  },
+  {
+    "id": 84,
+    "cantoId": 41,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Canto de Moisés",
+    "paginaFichaOriginal": "61"
+  },
+  {
+    "id": 85,
+    "cantoId": 48,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Como ovelha que vê",
+    "paginaFichaOriginal": "68"
+  },
+  {
+    "id": 86,
+    "cantoId": 52,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Cristo é a luz",
+    "paginaFichaOriginal": "72"
+  },
+  {
+    "id": 87,
+    "cantoId": 53,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Dayenu",
+    "paginaFichaOriginal": "73"
+  },
+  {
+    "id": 88,
+    "cantoId": 57,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Diz o Senhor ao meu Senhor",
+    "paginaFichaOriginal": "78"
+  },
+  {
+    "id": 89,
+    "cantoId": 59,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "É paciente",
+    "paginaFichaOriginal": "80"
+  },
+  {
+    "id": 90,
+    "cantoId": 72,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Este é o meu mandamento",
+    "paginaFichaOriginal": "92"
+  },
+  {
+    "id": 91,
+    "cantoId": 78,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Exultai, justos, no Senhor",
+    "paginaFichaOriginal": "98"
+  },
+  {
+    "id": 92,
+    "cantoId": 82,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Foge, ó meu amado",
+    "paginaFichaOriginal": "102"
+  },
+  {
+    "id": 93,
+    "cantoId": 201,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Formosa és, amiga minha",
+    "paginaFichaOriginal": "265"
+  },
+  {
+    "id": 94,
+    "cantoId": 83,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Graças a Iahweh",
+    "paginaFichaOriginal": "103"
+  },
+  {
+    "id": 95,
+    "cantoId": 84,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Gritai jubilosos",
+    "paginaFichaOriginal": "104"
+  },
+  {
+    "id": 96,
+    "cantoId": 85,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Hino à caridade",
+    "paginaFichaOriginal": "105"
+  },
+  {
+    "id": 97,
+    "cantoId": 86,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Hino a Cristo luz",
+    "paginaFichaOriginal": "106"
+  },
+  {
+    "id": 98,
+    "cantoId": 87,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Hino à kenosis",
+    "paginaFichaOriginal": "107"
+  },
+  {
+    "id": 99,
+    "cantoId": 88,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Hino da Ascensão",
+    "paginaFichaOriginal": "108"
+  },
+  {
+    "id": 100,
+    "cantoId": 89,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Hino da Páscoa",
+    "paginaFichaOriginal": "109"
+  },
+  {
+    "id": 101,
+    "cantoId": 92,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Ide e anunciai a meus irmãos",
+    "paginaFichaOriginal": "112"
+  },
+  {
+    "id": 102,
+    "cantoId": 95,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Jerusalém reconstruída",
+    "paginaFichaOriginal": "115"
+  },
+  {
+    "id": 103,
+    "cantoId": 97,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Leva-me ao céu",
+    "paginaFichaOriginal": "117"
+  },
+  {
+    "id": 104,
+    "cantoId": 102,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Maria, casa da bênção",
+    "paginaFichaOriginal": "122"
+  },
+  {
+    "id": 105,
+    "cantoId": 107,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Maria pomba incorrupta",
+    "paginaFichaOriginal": "127"
+  },
+  {
+    "id": 106,
+    "cantoId": 109,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Mostrar-me-ás o caminho da vida",
+    "paginaFichaOriginal": "129"
+  },
+  {
+    "id": 107,
+    "cantoId": 111,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Não está aqui, ressuscitou",
+    "paginaFichaOriginal": "131"
+  },
+  {
+    "id": 108,
+    "cantoId": 115,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "O combate escatológico",
+    "paginaFichaOriginal": "135"
+  },
+  {
+    "id": 109,
+    "cantoId": 118,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "O Espírito do Senhor está sobre mim",
+    "paginaFichaOriginal": "138"
+  },
+  {
+    "id": 110,
+    "cantoId": 121,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "O Messias, Leão para vencer",
+    "paginaFichaOriginal": "141"
+  },
+  {
+    "id": 111,
+    "cantoId": 122,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Ó morte, onde está a tua vitória?",
+    "paginaFichaOriginal": "142"
+  },
+  {
+    "id": 112,
+    "cantoId": 126,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "O Senhor é meu pastor",
+    "paginaFichaOriginal": "146"
+  },
+  {
+    "id": 113,
+    "cantoId": 133,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Pentecostes",
+    "paginaFichaOriginal": "153"
+  },
+  {
+    "id": 114,
+    "cantoId": 136,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Por que esta noite é diferente",
+    "paginaFichaOriginal": "156"
+  },
+  {
+    "id": 115,
+    "cantoId": 138,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Quando Israel saiu do Egito",
+    "paginaFichaOriginal": "158"
+  },
+  {
+    "id": 116,
+    "cantoId": 141,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Quem é esta que sobe do deserto",
+    "paginaFichaOriginal": "161"
+  },
+  {
+    "id": 117,
+    "cantoId": 143,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Quero andar",
+    "paginaFichaOriginal": "163"
+  },
+  {
+    "id": 118,
+    "cantoId": null,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Ressuscitou",
+    "paginaFichaOriginal": "165"
+  },
+  {
+    "id": 119,
+    "cantoId": 145,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Resurrexit",
+    "paginaFichaOriginal": "166"
+  },
+  {
+    "id": 120,
+    "cantoId": 155,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Sequência de Corpus Christi",
+    "paginaFichaOriginal": "176"
+  },
+  {
+    "id": 121,
+    "cantoId": 160,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Sobe Deus entre aclamações",
+    "paginaFichaOriginal": "182"
+  },
+  {
+    "id": 122,
+    "cantoId": 162,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Tu cobriste de vergonha a morte",
+    "paginaFichaOriginal": "184"
+  },
+  {
+    "id": 123,
+    "cantoId": 163,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Tu és digno de receber o livro",
+    "paginaFichaOriginal": "185"
+  },
+  {
+    "id": 124,
+    "cantoId": 166,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Um grande sinal",
+    "paginaFichaOriginal": "188"
+  },
+  {
+    "id": 125,
+    "cantoId": 167,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Um rebento brota do tronco de Jessé",
+    "paginaFichaOriginal": "189"
+  },
+  {
+    "id": 126,
+    "cantoId": 170,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Vem do Líbano",
+    "paginaFichaOriginal": "192"
+  },
+  {
+    "id": 127,
+    "cantoId": 171,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Vem, Espírito Santo",
+    "paginaFichaOriginal": "193"
+  },
+  {
+    "id": 128,
+    "cantoId": 174,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Veni Creator",
+    "paginaFichaOriginal": "196"
+  },
+  {
+    "id": 129,
+    "cantoId": 178,
+    "subcategoria": "Páscoa-Pentecostes",
+    "tituloOriginal": "Vos tomarei dentre as nações",
+    "paginaFichaOriginal": "200"
+  },
+  {
+    "id": 130,
+    "cantoId": 3,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "A cordeira de Deus",
+    "paginaFichaOriginal": "23"
+  },
+  {
+    "id": 131,
+    "cantoId": 4,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "A espada",
+    "paginaFichaOriginal": "24"
+  },
+  {
+    "id": 132,
+    "cantoId": 27,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Ave Maria I",
+    "paginaFichaOriginal": "47"
+  },
+  {
+    "id": 133,
+    "cantoId": 28,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Ave Maria II (1984)",
+    "paginaFichaOriginal": "48"
+  },
+  {
+    "id": 134,
+    "cantoId": 32,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Bendita és tu, Maria",
+    "paginaFichaOriginal": "52"
+  },
+  {
+    "id": 135,
+    "cantoId": 48,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Como ovelha que vê",
+    "paginaFichaOriginal": "68"
+  },
+  {
+    "id": 136,
+    "cantoId": 181,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Débora",
+    "paginaFichaOriginal": "246"
+  },
+  {
+    "id": 137,
+    "cantoId": 101,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Magnificat",
+    "paginaFichaOriginal": "121"
+  },
+  {
+    "id": 138,
+    "cantoId": 102,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria, casa da bênção",
+    "paginaFichaOriginal": "122"
+  },
+  {
+    "id": 139,
+    "cantoId": 103,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria de Jasna Góra",
+    "paginaFichaOriginal": "123"
+  },
+  {
+    "id": 140,
+    "cantoId": 104,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria, mãe da Igreja",
+    "paginaFichaOriginal": "124"
+  },
+  {
+    "id": 141,
+    "cantoId": 105,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria, mãe do caminho ardente",
+    "paginaFichaOriginal": "125"
+  },
+  {
+    "id": 142,
+    "cantoId": 106,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria, pequena Maria",
+    "paginaFichaOriginal": "126"
+  },
+  {
+    "id": 143,
+    "cantoId": 107,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Maria pomba incorrupta",
+    "paginaFichaOriginal": "127"
+  },
+  {
+    "id": 144,
+    "cantoId": 146,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Salve rainha",
+    "paginaFichaOriginal": "167"
+  },
+  {
+    "id": 145,
+    "cantoId": 147,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Salve rainha dos céus",
+    "paginaFichaOriginal": "168"
+  },
+  {
+    "id": 146,
+    "cantoId": 157,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Shlom-lej Mariam",
+    "paginaFichaOriginal": "179"
+  },
+  {
+    "id": 147,
+    "cantoId": 158,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Sião, mãe de todos os povos",
+    "paginaFichaOriginal": "180"
+  },
+  {
+    "id": 148,
+    "cantoId": 159,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Só a só",
+    "paginaFichaOriginal": "181"
+  },
+  {
+    "id": 149,
+    "cantoId": 161,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Stabat mater dolorosa",
+    "paginaFichaOriginal": "183"
+  },
+  {
+    "id": 150,
+    "cantoId": 162,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Tu cobriste de vergonha a morte",
+    "paginaFichaOriginal": "184"
+  },
+  {
+    "id": 151,
+    "cantoId": 166,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Um grande sinal",
+    "paginaFichaOriginal": "188"
+  },
+  {
+    "id": 152,
+    "cantoId": 175,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Virgem da maravilha",
+    "paginaFichaOriginal": "197"
+  },
+  {
+    "id": 153,
+    "cantoId": 170,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Vem do Líbano",
+    "paginaFichaOriginal": "192"
+  },
+  {
+    "id": 154,
+    "cantoId": 178,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Vos tomarei dentre as nações",
+    "paginaFichaOriginal": "200"
+  },
+  {
+    "id": 155,
+    "cantoId": 179,
+    "subcategoria": "Cantos à Virgem",
+    "tituloOriginal": "Zaqueu",
+    "paginaFichaOriginal": "201"
+  },
+  {
+    "id": 156,
+    "cantoId": 18,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Alegria, nasceu o Salvador",
+    "paginaFichaOriginal": "38"
+  },
+  {
+    "id": 157,
+    "cantoId": 19,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Aleluia! Bendizei o Senhor",
+    "paginaFichaOriginal": "39"
+  },
+  {
+    "id": 158,
+    "cantoId": 66,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Encontraram-se dois anjos",
+    "paginaFichaOriginal": "87"
+  },
+  {
+    "id": 159,
+    "cantoId": 94,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Já vem o meu Deus",
+    "paginaFichaOriginal": "114"
+  },
+  {
+    "id": 160,
+    "cantoId": 136,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Por que esta noite é diferente",
+    "paginaFichaOriginal": "156"
+  },
+  {
+    "id": 161,
+    "cantoId": 168,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Uri, uri, uri, urá",
+    "paginaFichaOriginal": "190"
+  },
+  {
+    "id": 162,
+    "cantoId": 169,
+    "subcategoria": "Cantos para as Crianças",
+    "tituloOriginal": "Vamos já, pastores",
+    "paginaFichaOriginal": "191"
+  },
+  {
+    "id": 163,
+    "cantoId": 13,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Abba, Pai",
+    "paginaFichaOriginal": "33"
+  },
+  {
+    "id": 164,
+    "cantoId": 14,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Abraão",
+    "paginaFichaOriginal": "34"
+  },
+  {
+    "id": 165,
+    "cantoId": 15,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Aclamai o Senhor",
+    "paginaFichaOriginal": "35"
+  },
+  {
+    "id": 166,
+    "cantoId": 17,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Alçai ó portas",
+    "paginaFichaOriginal": "37"
+  },
+  {
+    "id": 167,
+    "cantoId": 211,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Amém, amém, amém",
+    "paginaFichaOriginal": "207"
+  },
+  {
+    "id": 168,
+    "cantoId": 32,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Bendita és tu, Maria",
+    "paginaFichaOriginal": "52"
+  },
+  {
+    "id": 169,
+    "cantoId": 44,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Chegue à tua presença meu clamor",
+    "paginaFichaOriginal": "64"
+  },
+  {
+    "id": 170,
+    "cantoId": 49,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Como são amáveis tuas moradas",
+    "paginaFichaOriginal": "69"
+  },
+  {
+    "id": 171,
+    "cantoId": 51,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Consolai o meu povo",
+    "paginaFichaOriginal": "71"
+  },
+  {
+    "id": 172,
+    "cantoId": 58,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Dizei aos de coração cansado",
+    "paginaFichaOriginal": "79"
+  },
+  {
+    "id": 173,
+    "cantoId": 59,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "É paciente",
+    "paginaFichaOriginal": "80"
+  },
+  {
+    "id": 174,
+    "cantoId": 60,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Eis-me aqui que venho em breve",
+    "paginaFichaOriginal": "82"
+  },
+  {
+    "id": 175,
+    "cantoId": 68,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Escutai, ilhas de longe",
+    "paginaFichaOriginal": "89"
+  },
+  {
+    "id": 176,
+    "cantoId": 75,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Eu te amo, Senhor",
+    "paginaFichaOriginal": "95"
+  },
+  {
+    "id": 177,
+    "cantoId": 76,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Eu venho reunir",
+    "paginaFichaOriginal": "96"
+  },
+  {
+    "id": 178,
+    "cantoId": 78,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Exultai, justos, no Senhor",
+    "paginaFichaOriginal": "98"
+  },
+  {
+    "id": 179,
+    "cantoId": 98,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Levanto os meus olhos para os montes",
+    "paginaFichaOriginal": "118"
+  },
+  {
+    "id": 180,
+    "cantoId": 99,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Louvai o Senhor",
+    "paginaFichaOriginal": "119"
+  },
+  {
+    "id": 181,
+    "cantoId": 109,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Mostrar-me-ás o caminho da vida",
+    "paginaFichaOriginal": "129"
+  },
+  {
+    "id": 182,
+    "cantoId": 115,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "O combate escatológico",
+    "paginaFichaOriginal": "135"
+  },
+  {
+    "id": 183,
+    "cantoId": 118,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "O Espírito do Senhor está sobre mim",
+    "paginaFichaOriginal": "138"
+  },
+  {
+    "id": 184,
+    "cantoId": 125,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "O Senhor anuncia uma notícia",
+    "paginaFichaOriginal": "145"
+  },
+  {
+    "id": 185,
+    "cantoId": 129,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Ó Senhor, nosso Deus",
+    "paginaFichaOriginal": "149"
+  },
+  {
+    "id": 186,
+    "cantoId": 132,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Para ti morada santa",
+    "paginaFichaOriginal": "152"
+  },
+  {
+    "id": 187,
+    "cantoId": 139,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Quando o Senhor",
+    "paginaFichaOriginal": "159"
+  },
+  {
+    "id": 188,
+    "cantoId": 150,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Se o Senhor não constrói a casa",
+    "paginaFichaOriginal": "171"
+  },
+  {
+    "id": 189,
+    "cantoId": 165,
+    "subcategoria": "Cantos de Entrada",
+    "tituloOriginal": "Tu que és fiel",
+    "paginaFichaOriginal": "187"
+  },
+  {
+    "id": 190,
+    "cantoId": 19,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Aleluia! Bendizei o Senhor",
+    "paginaFichaOriginal": "39"
+  },
+  {
+    "id": 191,
+    "cantoId": 30,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Balaão",
+    "paginaFichaOriginal": "50"
+  },
+  {
+    "id": 192,
+    "cantoId": 47,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Como é maravilhoso",
+    "paginaFichaOriginal": "67"
+  },
+  {
+    "id": 193,
+    "cantoId": 51,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Consolai o meu povo",
+    "paginaFichaOriginal": "71"
+  },
+  {
+    "id": 194,
+    "cantoId": 53,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Dayenu",
+    "paginaFichaOriginal": "73"
+  },
+  {
+    "id": 195,
+    "cantoId": 66,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Encontraram-se dois anjos",
+    "paginaFichaOriginal": "87"
+  },
+  {
+    "id": 196,
+    "cantoId": 77,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Evenu shalom alehem",
+    "paginaFichaOriginal": "97"
+  },
+  {
+    "id": 197,
+    "cantoId": 83,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Graças a Iahweh",
+    "paginaFichaOriginal": "103"
+  },
+  {
+    "id": 198,
+    "cantoId": 95,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Jerusalém reconstruída",
+    "paginaFichaOriginal": "115"
+  },
+  {
+    "id": 199,
+    "cantoId": 130,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Olhai que estupendo",
+    "paginaFichaOriginal": "150"
+  },
+  {
+    "id": 200,
+    "cantoId": 134,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Por amor de meus amigos",
+    "paginaFichaOriginal": "154"
+  },
+  {
+    "id": 201,
+    "cantoId": 140,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Que estupendo, que alegria",
+    "paginaFichaOriginal": "160"
+  },
+  {
+    "id": 202,
+    "cantoId": 160,
+    "subcategoria": "Paz - Apresentação das Oferendas",
+    "tituloOriginal": "Sobe Deus entre aclamações",
+    "paginaFichaOriginal": "182"
+  },
+  {
+    "id": 203,
+    "cantoId": 48,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Como ovelha que vê",
+    "paginaFichaOriginal": "68"
+  },
+  {
+    "id": 204,
+    "cantoId": 61,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Eis o meu servo",
+    "paginaFichaOriginal": "81"
+  },
+  {
+    "id": 205,
+    "cantoId": 73,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Estendo minhas mãos",
+    "paginaFichaOriginal": "93"
+  },
+  {
+    "id": 206,
+    "cantoId": 81,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Filhas de Jerusalém",
+    "paginaFichaOriginal": "101"
+  },
+  {
+    "id": 207,
+    "cantoId": 87,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Hino à Kenosis",
+    "paginaFichaOriginal": "107"
+  },
+  {
+    "id": 208,
+    "cantoId": 93,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Impropérios",
+    "paginaFichaOriginal": "113"
+  },
+  {
+    "id": 209,
+    "cantoId": 104,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Maria, mãe da Igreja",
+    "paginaFichaOriginal": "124"
+  },
+  {
+    "id": 210,
+    "cantoId": 112,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Não há nele aparência",
+    "paginaFichaOriginal": "132"
+  },
+  {
+    "id": 211,
+    "cantoId": 119,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Ó Jesus, meu amor",
+    "paginaFichaOriginal": "139"
+  },
+  {
+    "id": 212,
+    "cantoId": 120,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "O lagareiro",
+    "paginaFichaOriginal": "140"
+  },
+  {
+    "id": 213,
+    "cantoId": 121,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "O Messias, leão para vencer",
+    "paginaFichaOriginal": "141"
+  },
+  {
+    "id": 214,
+    "cantoId": 128,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "O Senhor me deu",
+    "paginaFichaOriginal": "148"
+  },
+  {
+    "id": 215,
+    "cantoId": 159,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Só a só",
+    "paginaFichaOriginal": "181"
+  },
+  {
+    "id": 216,
+    "cantoId": 161,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Stabat mater dolorosa",
+    "paginaFichaOriginal": "183"
+  },
+  {
+    "id": 217,
+    "cantoId": 162,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Tu cobriste de vergonha a morte",
+    "paginaFichaOriginal": "184"
+  },
+  {
+    "id": 218,
+    "cantoId": 163,
+    "subcategoria": "Fração do Pão",
+    "tituloOriginal": "Tu és digno de receber o livro",
+    "paginaFichaOriginal": "185"
+  },
+  {
+    "id": 219,
+    "cantoId": 1,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "A cabana dos pastores",
+    "paginaFichaOriginal": "21"
+  },
+  {
+    "id": 220,
+    "cantoId": 12,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "A voz do meu amado",
+    "paginaFichaOriginal": "32"
+  },
+  {
+    "id": 221,
+    "cantoId": 31,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Bendirei o Senhor em todo tempo",
+    "paginaFichaOriginal": "51"
+  },
+  {
+    "id": 222,
+    "cantoId": 43,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Carmen 63",
+    "paginaFichaOriginal": "63"
+  },
+  {
+    "id": 223,
+    "cantoId": 59,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "É paciente",
+    "paginaFichaOriginal": "80"
+  },
+  {
+    "id": 224,
+    "cantoId": 63,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Em meio a multidão",
+    "paginaFichaOriginal": "84"
+  },
+  {
+    "id": 225,
+    "cantoId": 68,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Escutai, ilhas de longe",
+    "paginaFichaOriginal": "89"
+  },
+  {
+    "id": 226,
+    "cantoId": 78,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Exultai, justos, no Senhor",
+    "paginaFichaOriginal": "98"
+  },
+  {
+    "id": 227,
+    "cantoId": 82,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Foge, ó meu amado",
+    "paginaFichaOriginal": "102"
+  },
+  {
+    "id": 228,
+    "cantoId": 83,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Graças a Iahweh",
+    "paginaFichaOriginal": "103"
+  },
+  {
+    "id": 229,
+    "cantoId": 84,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Gritai jubilosos",
+    "paginaFichaOriginal": "104"
+  },
+  {
+    "id": 230,
+    "cantoId": 85,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Hino à caridade",
+    "paginaFichaOriginal": "105"
+  },
+  {
+    "id": 231,
+    "cantoId": 102,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Maria, casa da bênção",
+    "paginaFichaOriginal": "122"
+  },
+  {
+    "id": 232,
+    "cantoId": 118,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "O Espírito do Senhor está sobre mim",
+    "paginaFichaOriginal": "253"
+  },
+  {
+    "id": 233,
+    "cantoId": 188,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "O mesmo Deus",
+    "paginaFichaOriginal": "142"
+  },
+  {
+    "id": 234,
+    "cantoId": 122,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Ó morte, onde está a tua vitória?",
+    "paginaFichaOriginal": "146"
+  },
+  {
+    "id": 235,
+    "cantoId": 126,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "O Senhor é meu pastor",
+    "paginaFichaOriginal": "153"
+  },
+  {
+    "id": 236,
+    "cantoId": 133,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Pentecostes",
+    "paginaFichaOriginal": "256"
+  },
+  {
+    "id": 237,
+    "cantoId": 191,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Quando dormia",
+    "paginaFichaOriginal": "161"
+  },
+  {
+    "id": 238,
+    "cantoId": 141,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Quem é esta que sobe do deserto",
+    "paginaFichaOriginal": "162"
+  },
+  {
+    "id": 239,
+    "cantoId": 142,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Quem nos separará",
+    "paginaFichaOriginal": "165"
+  },
+  {
+    "id": 240,
+    "cantoId": null,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Ressuscitou",
+    "paginaFichaOriginal": "186"
+  },
+  {
+    "id": 241,
+    "cantoId": 164,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Tu és formoso",
+    "paginaFichaOriginal": "189"
+  },
+  {
+    "id": 242,
+    "cantoId": 167,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Um rebento brota do tronco de Jessé",
+    "paginaFichaOriginal": "192"
+  },
+  {
+    "id": 243,
+    "cantoId": 170,
+    "subcategoria": "Comunhão com o Cálice",
+    "tituloOriginal": "Vem do Líbano",
+    "paginaFichaOriginal": ""
+  },
+  {
+    "id": 244,
+    "cantoId": 2,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "A ceifa das nações",
+    "paginaFichaOriginal": "22"
+  },
+  {
+    "id": 245,
+    "cantoId": 30,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Balaão",
+    "paginaFichaOriginal": "50"
+  },
+  {
+    "id": 246,
+    "cantoId": 43,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Carmen 63",
+    "paginaFichaOriginal": "63"
+  },
+  {
+    "id": 247,
+    "cantoId": 51,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Consolai o meu povo",
+    "paginaFichaOriginal": "71"
+  },
+  {
+    "id": 248,
+    "cantoId": 55,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Dia de repouso",
+    "paginaFichaOriginal": "76"
+  },
+  {
+    "id": 249,
+    "cantoId": 76,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Eu venho reunir",
+    "paginaFichaOriginal": "96"
+  },
+  {
+    "id": 250,
+    "cantoId": 82,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Foge, ó meu amado",
+    "paginaFichaOriginal": "102"
+  },
+  {
+    "id": 251,
+    "cantoId": 83,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Graças a Iahweh",
+    "paginaFichaOriginal": "103"
+  },
+  {
+    "id": 252,
+    "cantoId": 84,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Gritai jubilosos",
+    "paginaFichaOriginal": "104"
+  },
+  {
+    "id": 253,
+    "cantoId": 92,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Ide e anunciai a meus irmãos",
+    "paginaFichaOriginal": "112"
+  },
+  {
+    "id": 254,
+    "cantoId": 97,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Leva-me ao céu",
+    "paginaFichaOriginal": "117"
+  },
+  {
+    "id": 255,
+    "cantoId": 141,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Quem é esta que sobe do deserto",
+    "paginaFichaOriginal": "161"
+  },
+  {
+    "id": 256,
+    "cantoId": 143,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Quero andar",
+    "paginaFichaOriginal": "163"
+  },
+  {
+    "id": 257,
+    "cantoId": 158,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Sião, mãe de todos os povos",
+    "paginaFichaOriginal": "180"
+  },
+  {
+    "id": 258,
+    "cantoId": 164,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Tu és formoso",
+    "paginaFichaOriginal": "186"
+  },
+  {
+    "id": 259,
+    "cantoId": 166,
+    "subcategoria": "Canto Final",
+    "tituloOriginal": "Um grande sinal",
+    "paginaFichaOriginal": "188"
+  }
+]
