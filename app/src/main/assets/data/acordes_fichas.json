@@ -1,0 +1,25 @@
+[
+  {
+    "cantoId": 1,
+    "completo": true,
+    "acordes": [
+      { "pagina": 1, "acorde": "Re-", "x": 0.072, "y": 0.180, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Sib", "x": 0.104, "y": 0.220, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "La",  "x": 0.329, "y": 0.220, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.263, "y": 0.300, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.072, "y": 0.360, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Sib", "x": 0.118, "y": 0.400, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "La",  "x": 0.304, "y": 0.400, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.329, "y": 0.480, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.072, "y": 0.540, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Sib", "x": 0.175, "y": 0.580, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "La",  "x": 0.286, "y": 0.580, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.319, "y": 0.660, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.072, "y": 0.720, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Sib", "x": 0.072, "y": 0.760, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "La",  "x": 0.315, "y": 0.760, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.235, "y": 0.840, "largura": 0.044, "altura": 0.020 },
+      { "pagina": 1, "acorde": "Re-", "x": 0.072, "y": 0.900, "largura": 0.044, "altura": 0.020 }
+    ]
+  }
+]

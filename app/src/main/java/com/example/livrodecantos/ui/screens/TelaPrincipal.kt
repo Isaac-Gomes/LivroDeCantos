@@ -9,7 +9,9 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.material.icons.filled.Close
@@ -128,6 +130,12 @@ fun TelaPrincipal(
     // ====================================================
     // NAVEGAÇÃO
     // ====================================================
+
+    // Mantém a rolagem mesmo quando a lista sai da composição ao abrir uma ficha.
+    val estadoListaPrincipal = rememberLazyListState()
+    val estadoListaNumerica = rememberLazyListState()
+
+    var ordenarPorNumero by remember { mutableStateOf(false) }
 
     var telaAtual by remember {
 
@@ -881,10 +889,13 @@ fun TelaPrincipal(
     // COMPARADOR DOS CANTOS
     // ====================================================
 
+    val usarOrdemNumerica = ordenarPorNumero && etapaSelecionada == null
+
     val comparadorCantos =
         remember(
             comparadorAlfabetico,
-            ordemAnexos
+            ordemAnexos,
+            usarOrdemNumerica
         ) {
 
             Comparator<Canto> {
@@ -940,6 +951,13 @@ fun TelaPrincipal(
                         -1
                     }
 
+
+                    usarOrdemNumerica -> {
+                        val numero1 = canto1.numero.substringBefore(',').trim().toIntOrNull() ?: Int.MAX_VALUE
+                        val numero2 = canto2.numero.substringBefore(',').trim().toIntOrNull() ?: Int.MAX_VALUE
+
+                        numero1.compareTo(numero2)
+                    }
 
                     // ------------------------------------
                     // ORDEM ALFABÉTICA NORMAL
@@ -1099,6 +1117,8 @@ fun TelaPrincipal(
 
                     onTodosCantos = {
 
+                        ordenarPorNumero = true
+
                         etapaSelecionada =
                             null
 
@@ -1127,6 +1147,8 @@ fun TelaPrincipal(
                     // ====================================
 
                     onOrdemAlfabetica = {
+
+                        ordenarPorNumero = false
 
                         etapaSelecionada =
                             null
@@ -1632,7 +1654,7 @@ fun TelaPrincipal(
 
                             else -> {
 
-                                "ORDEM ALFABÉTICA"
+                                if (usarOrdemNumerica) "TODOS OS CANTOS" else "ORDEM ALFABÉTICA"
                             }
                         },
 
@@ -1693,6 +1715,12 @@ fun TelaPrincipal(
 
                     ListaDeCantos(
 
+                        estadoLista = if (usarOrdemNumerica) {
+                            estadoListaNumerica
+                        } else {
+                            estadoListaPrincipal
+                        },
+
                         cantos =
                             cantosExibidos,
 
@@ -1717,6 +1745,8 @@ fun TelaPrincipal(
 @Composable
 private fun ListaDeCantos(
 
+    estadoLista: LazyListState,
+
     cantos: List<Canto>,
 
     onCantoClick: (Canto) -> Unit
@@ -1724,6 +1754,8 @@ private fun ListaDeCantos(
 ) {
 
     LazyColumn(
+
+        state = estadoLista,
 
         modifier =
             Modifier.fillMaxSize()

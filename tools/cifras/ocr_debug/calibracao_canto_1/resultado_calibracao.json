@@ -1,0 +1,359 @@
+﻿[
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_01_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_01_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_01_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_01_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Sib",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_02_Sib_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_02_Sib_x4.png",
+                              "textoOCR":  "Sib"
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_02_Sib_x6.png",
+                              "textoOCR":  "Sib"
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_02_Sib_x8.png",
+                              "textoOCR":  "Sib"
+                          }
+                      ]
+    },
+    {
+        "esperado":  "La",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_03_La_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_03_La_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_03_La_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_03_La_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_04_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_04_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_04_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_04_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_05_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_05_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_05_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_05_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Sib",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_06_Sib_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_06_Sib_x4.png",
+                              "textoOCR":  "Sib"
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_06_Sib_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_06_Sib_x8.png",
+                              "textoOCR":  "Sib"
+                          }
+                      ]
+    },
+    {
+        "esperado":  "La",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_07_La_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_07_La_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_07_La_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_07_La_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_08_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_08_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_08_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_08_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_09_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_09_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_09_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_09_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Sib",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_10_Sib_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_10_Sib_x4.png",
+                              "textoOCR":  "Slb"
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_10_Sib_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_10_Sib_x8.png",
+                              "textoOCR":  "Sib"
+                          }
+                      ]
+    },
+    {
+        "esperado":  "La",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_11_La_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_11_La_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_11_La_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_11_La_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_12_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_12_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_12_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_12_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_13_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_13_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_13_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_13_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Sib",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_14_Sib_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_14_Sib_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_14_Sib_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_14_Sib_x8.png",
+                              "textoOCR":  "Sib"
+                          }
+                      ]
+    },
+    {
+        "esperado":  "La",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_15_La_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_15_La_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_15_La_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_15_La_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_16_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_16_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_16_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_16_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    },
+    {
+        "esperado":  "Re-",
+        "raw":  "ocr_debug/calibracao_canto_1/canto_001_17_Re-_raw.png",
+        "variantes":  [
+                          {
+                              "escala":  4,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_17_Re-_x4.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  6,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_17_Re-_x6.png",
+                              "textoOCR":  ""
+                          },
+                          {
+                              "escala":  8,
+                              "arquivo":  "ocr_debug/calibracao_canto_1/canto_001_17_Re-_x8.png",
+                              "textoOCR":  ""
+                          }
+                      ]
+    }
+]

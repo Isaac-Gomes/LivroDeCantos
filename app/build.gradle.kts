@@ -93,6 +93,12 @@ dependencies {
         libs.androidx.lifecycle.runtime.ktx
     )
 
+    implementation(
+        libs.androidx.datastore.preferences
+    )
+
+    implementation("com.squareup.okio:okio:3.9.0")
+
 
     // -----------------------------------------------------
     // ROOM

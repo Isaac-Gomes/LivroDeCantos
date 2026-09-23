@@ -1,0 +1,10 @@
+﻿OCR utilizado: Windows.Media.Ocr (pt-BR), execuÃ§Ã£o offline WinRT/MTA.
+PÃ¡ginas processadas: 250
+Linhas reconhecidas: 8617
+Linhas de alta confianÃ§a: 4470
+Linhas de mÃ©dia confianÃ§a: 2245
+Linhas pendentes: 4147
+Cantos processados: 239
+Cantos com letra aparentemente completa: 0
+Cantos ainda incompletos/revisÃ£o necessÃ¡ria: 237
+ObservaÃ§Ã£o: Windows.Media.Ocr nÃ£o expÃµe confianÃ§a lexical; a confianÃ§a registrada Ã© heurÃ­stica e nenhuma letra foi corrigida ou importada para o APK.

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="pt-BR"><meta charset="utf-8"><title>Revisão de acordes — Ressuscitou</title>
+<style>body{font:16px system-ui;margin:24px;max-width:760px}img{max-width:100%;max-height:260px;border:1px solid #bbb;background:#fff}button,input{font:inherit;margin:4px;padding:7px}#meta{line-height:1.55}.muted{color:#666}</style>
+<h1>Revisão humana de acordes</h1><p class="muted">As decisões ficam no navegador até serem exportadas. Importe o JSON exportado para continuar em outro computador.</p>
+<p><button onclick="mover(-1)">← Anterior</button><button onclick="mover(1)">Pular →</button><button onclick="exportar()">Exportar revisões</button><input type="file" accept="application/json" onchange="importar(this.files[0])"></p>
+<div id="meta"></div><p><img id="crop" alt="Recorte candidato"></p><p>Sugestão: <strong id="sugestao">—</strong><br>Alternativas: <span id="alternativas">—</span></p>
+<p><label>Acorde confirmado/corrigido: <input id="acorde" autocomplete="off"></label></p><p><button onclick="decidir('confirmar')">Confirmar</button><button onclick="decidir('corrigir')">Corrigir</button><button onclick="decidir('nao_e_acorde')">Não é acorde</button><button onclick="decidir('pular')">Pular</button></p>
+<script src="dados_revisao.js"></script><script>
+const ocorrencias=window.dadosRevisao||[];const grupos=Object.values(ocorrencias.reduce((r,g)=>{(r[g.hashVisual]??=[]).push(g);return r},{})).map(itens=>({principal:itens[0],itens}));let i=0;const decisoes=JSON.parse(localStorage.getItem('revisoesCifra')||'{}');
+function atual(){return grupos[i]} function salvar(){localStorage.setItem('revisoesCifra',JSON.stringify(decisoes))}
+function render(){const v=atual();if(!v){document.body.innerHTML+='<p>Não há candidatos.</p>';return}const g=v.principal;document.querySelector('#meta').innerHTML=`<b>Canto ${g.numero} — ${g.titulo}</b><br>Página ${g.pagina} · ocorrência ${g.indiceOcorrencia} · grupo visual ${i+1}/${grupos.length} (${v.itens.length} ocorrência(s))`;document.querySelector('#crop').src='../'+g.arquivoCrop;document.querySelector('#sugestao').textContent=g.textoReconhecido||'—';document.querySelector('#alternativas').textContent='—';document.querySelector('#acorde').value=(decisoes[g.hashVisual]||{}).acorde||''}
+function decidir(tipo){const v=atual(),g=v.principal;const valor=document.querySelector('#acorde').value.trim();decisoes[g.hashVisual]={hashVisual:g.hashVisual,cantoId:g.cantoId,pagina:g.pagina,indiceOcorrencia:g.indiceOcorrencia,crop:g.arquivoCrop,ocorrencias:v.itens.length,decisao:tipo,acorde:valor||null};salvar();if(i<grupos.length-1)i++;render()}
+function mover(delta){i=Math.max(0,Math.min(grupos.length-1,i+delta));render()}function exportar(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(decisoes),null,2)],{type:'application/json'}));a.download='revisoes_manuais.json';a.click()}
+function importar(f){if(!f)return;const r=new FileReader();r.onload=()=>{for(const d of JSON.parse(r.result))decisoes[d.hashVisual||d.crop]=d;salvar();render()};r.readAsText(f)}render();
+</script></html>

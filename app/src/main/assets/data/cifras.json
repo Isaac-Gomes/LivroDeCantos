@@ -1,0 +1,182 @@
+[
+  {
+    "cantoId": 1,
+    "tomOriginal": "Re-",
+    "preferenciaAcidentes": "BEMOIS",
+    "linhas": [
+      {
+        "texto": "Que me beijes com beijos de sua boca!",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "Melhores que o vinho são teus amores;",
+        "acordes": [
+          {
+            "posicao": 4,
+            "acorde": "Sib"
+          },
+          {
+            "posicao": 32,
+            "acorde": "La"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "o teu nome é perfume derramado,",
+        "acordes": []
+      },
+      {
+        "texto": "por isso te amam as donzelas.",
+        "acordes": [
+          {
+            "posicao": 23,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "LEVA-ME ATRÁS DE TI: SAIAMOS!",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "LEVA-ME ATRÁS DE TI: CORRAMOS!",
+        "acordes": [
+          {
+            "posicao": 5,
+            "acorde": "Sib"
+          },
+          {
+            "posicao": 24,
+            "acorde": "La"
+          }
+        ]
+      },
+      {
+        "texto": "CELEBRAREMOS OS TEUS AMORES MAIS QUE O VINHO;",
+        "acordes": []
+      },
+      {
+        "texto": "COM QUANTA RAZÃO TU ÉS AMADO!",
+        "acordes": [
+          {
+            "posicao": 24,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "FAZ-ME SABER, AMADO DA MINHA ALMA,",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "ONDE APASCENTAS O REBANHO,",
+        "acordes": [
+          {
+            "posicao": 9,
+            "acorde": "Sib"
+          },
+          {
+            "posicao": 20,
+            "acorde": "La"
+          }
+        ]
+      },
+      {
+        "texto": "PARA QUE EU NÃO ANDE VAGUEANDO",
+        "acordes": []
+      },
+      {
+        "texto": "ATRÁS DE OUTROS COMPANHEIROS.",
+        "acordes": [
+          {
+            "posicao": 22,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "Se não sabes, ó mais bela das mulheres,",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "segue o caminho das minhas ovelhas,",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Sib"
+          },
+          {
+            "posicao": 28,
+            "acorde": "La"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "e leva por aí os teus cabritos,",
+        "acordes": []
+      },
+      {
+        "texto": "até a cabana dos pastores.",
+        "acordes": [
+          {
+            "posicao": 20,
+            "acorde": "Re-"
+          }
+        ]
+      },
+      {
+        "texto": "",
+        "acordes": []
+      },
+      {
+        "texto": "LEVA-ME ATRÁS DE TI: SAIAMOS! ...",
+        "acordes": [
+          {
+            "posicao": 0,
+            "acorde": "Re-"
+          }
+        ]
+      }
+    ]
+  }
+]

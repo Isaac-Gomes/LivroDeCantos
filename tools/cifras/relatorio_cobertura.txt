@@ -1,0 +1,272 @@
+﻿RESSUSCITOU â€” RELATÃ“RIO DE COBERTURA DE TRANSPOSIÃ‡ÃƒO
+
+Total de cantos no catÃ¡logo: 239
+Cantos com ficha: 239
+PÃ¡ginas de ficha: 250
+Cantos com transposiÃ§Ã£o pronta: 1
+Cantos sem acordes confirmados: 0
+Cantos que precisam de revisÃ£o: 235
+PÃ¡ginas processadas pelo detector: 250
+RegiÃµes vermelhas candidatas: 4387
+Acordes mapeados e validados: 17
+Erros de validaÃ§Ã£o estrutural: 0
+
+ObservaÃ§Ã£o: regiÃµes candidatas nÃ£o sÃ£o acordes validados e nunca sÃ£o incluÃ­das no APK.
+
+PRECISAM DE REVISÃƒO
+cantoId=2 | nÃºmero=22 | tÃ­tulo=A ceifa das nações | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=3 | nÃºmero=23 | tÃ­tulo=A cordeira de Deus | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=4 | nÃºmero=24 | tÃ­tulo=A Espada | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=5 | nÃºmero=25 | tÃ­tulo=A marcha é dura | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=6 | nÃºmero=26 | tÃ­tulo=A ninguém demos ocasião de tropeço | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=7 | nÃºmero=27 | tÃ­tulo=A ti levanto meus olhos | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=8 | nÃºmero=28 | tÃ­tulo=A Ti, Senhor, com minha voz gritando imploro | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=9 | nÃºmero=29 | tÃ­tulo=A Ti, Senhor levanto minha alma | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=10 | nÃºmero=30 | tÃ­tulo=A Ti, Senhor, se deve o louvor em Sião | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=11 | nÃºmero=31 | tÃ­tulo=À vítima pascal | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=12 | nÃºmero=32 | tÃ­tulo=A voz do meu amado | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=13 | nÃºmero=33 | tÃ­tulo=Abba, Pai | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=14 | nÃºmero=34 | tÃ­tulo=Abraão | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=15 | nÃºmero=35 | tÃ­tulo=Aclamai o Senhor | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=16 | nÃºmero=36 | tÃ­tulo=Akedá | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=17 | nÃºmero=37 | tÃ­tulo=Alçai ó portas | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=18 | nÃºmero=38 | tÃ­tulo=Alegria, Nasceu O Salvador | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=19 | nÃºmero=39 | tÃ­tulo=Aleluia! Bendizei o Senhor | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=20 | nÃºmero=40 | tÃ­tulo=Aleluia! Já chegou o reino | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=21 | nÃºmero=41 | tÃ­tulo=Aleluia! Louvai o Senhor | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=22 | nÃºmero=42 | tÃ­tulo=Amo o Senhor | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=23 | nÃºmero=43 | tÃ­tulo=Ao despertar | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=24 | nÃºmero=44 | tÃ­tulo=As armas da luz | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=25 | nÃºmero=45 | tÃ­tulo=Assim fala o amém | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=26 | nÃºmero=46 | tÃ­tulo=Até quando? | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=27 | nÃºmero=47 | tÃ­tulo=Ave Maria I | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=28 | nÃºmero=48 | tÃ­tulo=Ave Maria II (1984) | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=29 | nÃºmero=49 | tÃ­tulo=Babilônia criminal | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=30 | nÃºmero=50 | tÃ­tulo=Balaão | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=31 | nÃºmero=51 | tÃ­tulo=Bendirei o Senhor em todo tempo | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=32 | nÃºmero=52 | tÃ­tulo=Bendita és tu, Maria | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=33 | nÃºmero=53 | tÃ­tulo=Bendito seja Deus | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=34 | nÃºmero=54 | tÃ­tulo=Bendito sejas, Senhor | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=35 | nÃºmero=55 | tÃ­tulo=Bendize, minha alma, a Iahweh | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=36 | nÃºmero=56 | tÃ­tulo=Benedictus | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=37 | nÃºmero=57 | tÃ­tulo=Canta a Iahweh, Jerusalém | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=38 | nÃºmero=58 | tÃ­tulo=Cantai A Deus | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=39 | nÃºmero=59 | tÃ­tulo=Cântico de Ana | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=40 | nÃºmero=60 | tÃ­tulo=Cântico dos três jovens | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=41 | nÃºmero=61 | tÃ­tulo=Canto de Moisés | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=42 | nÃºmero=62 | tÃ­tulo=Caritas Christi urget nos | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=43 | nÃºmero=63 | tÃ­tulo=Carmen 63 | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=44 | nÃºmero=64 | tÃ­tulo=Chegue à tua presença meu clamor | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=45 | nÃºmero=65 | tÃ­tulo=Como a corça | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=46 | nÃºmero=66 | tÃ­tulo=Como condenados a morte | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=47 | nÃºmero=67 | tÃ­tulo=Como é maravilhoso | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=48 | nÃºmero=68 | tÃ­tulo=Como ovelha que vê | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=49 | nÃºmero=69 | tÃ­tulo=Como são amáveis tuas moradas | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=50 | nÃºmero=70 | tÃ­tulo=Confessei a ti o meu pecado | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=51 | nÃºmero=71 | tÃ­tulo=Consolai o meu povo | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=52 | nÃºmero=72 | tÃ­tulo=Cristo É A Luz | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=53 | nÃºmero=73,74 | tÃ­tulo=Dayenu | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=53 | nÃºmero=73,74 | tÃ­tulo=Dayenu | pÃ¡gina=2 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=54 | nÃºmero=75 | tÃ­tulo=De profundis | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=55 | nÃºmero=76 | tÃ­tulo=Dia de repouso | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=56 | nÃºmero=77 | tÃ­tulo=Diante dos anjos | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=57 | nÃºmero=78 | tÃ­tulo=Diz o Senhor ao meu Senhor | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=58 | nÃºmero=79 | tÃ­tulo=Dizei aos de coração cansado | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=59 | nÃºmero=80 | tÃ­tulo=É paciente | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=60 | nÃºmero=81 | tÃ­tulo=Eis-me aqui que venho em breve | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=61 | nÃºmero=82 | tÃ­tulo=Eis o meu servo | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=62 | nÃºmero=83 | tÃ­tulo=Eli, Eli, lamá sabactani | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=63 | nÃºmero=84 | tÃ­tulo=Em meio a multidão | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=64 | nÃºmero=85 | tÃ­tulo=Em Tua luz, Senhor, vemos a luz | pÃ¡gina=1 | regiÃµes candidatas=25 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=65 | nÃºmero=86 | tÃ­tulo=Em uma noite escura | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=66 | nÃºmero=87 | tÃ­tulo=Encontraram-se dois anjos | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=67 | nÃºmero=88 | tÃ­tulo=Esconde-me no oculto de tua tenda | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=68 | nÃºmero=89 | tÃ­tulo=Escutai ilhas de longe | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=69 | nÃºmero=90 | tÃ­tulo=Esperei, esperei no Senhor | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=71 | nÃºmero=91 | tÃ­tulo=Este é o dia que fez o Senhor | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=72 | nÃºmero=92 | tÃ­tulo=Este é o meu mandamento | pÃ¡gina=1 | regiÃµes candidatas=26 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=73 | nÃºmero=93 | tÃ­tulo=Estendo minhas mãos | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=74 | nÃºmero=94 | tÃ­tulo=Estou chamando-Te | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=75 | nÃºmero=95 | tÃ­tulo=Eu Te amo, Senhor | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=76 | nÃºmero=96 | tÃ­tulo=Eu venho reunir | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=77 | nÃºmero=97 | tÃ­tulo=Evenu Shalom alehem | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=78 | nÃºmero=98 | tÃ­tulo=Exultai, justos, no Senhor | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=79 | nÃºmero=99 | tÃ­tulo=Felicidade para o homem | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=80 | nÃºmero=100 | tÃ­tulo=Feliz o homem | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=81 | nÃºmero=101 | tÃ­tulo=Filhas de Jerusalém | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=82 | nÃºmero=102 | tÃ­tulo=Foge, ó meu amado | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=83 | nÃºmero=103 | tÃ­tulo=Graças a Iahweh | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=84 | nÃºmero=104 | tÃ­tulo=Gritai jubilosos | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=85 | nÃºmero=105 | tÃ­tulo=Hino à caridade | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=86 | nÃºmero=106 | tÃ­tulo=Hino a Cristo luz | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=87 | nÃºmero=107 | tÃ­tulo=Hino a Kenosis | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=88 | nÃºmero=108 | tÃ­tulo=Hino da Ascensão | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=89 | nÃºmero=109 | tÃ­tulo=Hino da Páscoa | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=90 | nÃºmero=110 | tÃ­tulo=Hino do Advento | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=91 | nÃºmero=111 | tÃ­tulo=Iahweh, Tu és meu Deus | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=92 | nÃºmero=112 | tÃ­tulo=Ide e anunciai a meus irmãos | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=93 | nÃºmero=113 | tÃ­tulo=Impropérios | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=94 | nÃºmero=114 | tÃ­tulo=Já vem o meu Deus | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=95 | nÃºmero=115 | tÃ­tulo=Jerusalém reconstruída | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=96 | nÃºmero=116 | tÃ­tulo=Jesus percorria todas as cidades | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=97 | nÃºmero=117 | tÃ­tulo=Leva-me ao céu | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=98 | nÃºmero=118 | tÃ­tulo=Levanto os meus olhos para os montes | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=99 | nÃºmero=119 | tÃ­tulo=Louvai o Senhor | pÃ¡gina=1 | regiÃµes candidatas=10 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=100 | nÃºmero=120 | tÃ­tulo=Louvai o Senhor nos céus | pÃ¡gina=1 | regiÃµes candidatas=5 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=101 | nÃºmero=121 | tÃ­tulo=Magnificat | pÃ¡gina=1 | regiÃµes candidatas=26 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=102 | nÃºmero=122 | tÃ­tulo=Maria, casa da benção | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=103 | nÃºmero=123 | tÃ­tulo=Maria de Jasna Göra | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=104 | nÃºmero=124 | tÃ­tulo=Maria, Mãe da Igreja | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=105 | nÃºmero=125 | tÃ­tulo=Maria, Mãe do caminho ardente | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=106 | nÃºmero=126 | tÃ­tulo=Maria, pequena Maria | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=107 | nÃºmero=127 | tÃ­tulo=Maria, pomba incorrupta | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=108 | nÃºmero=128 | tÃ­tulo=Misericórdia minha, misericórdia | pÃ¡gina=1 | regiÃµes candidatas=9 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=109 | nÃºmero=129 | tÃ­tulo=Mostrar-me-ás o caminho da vida | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=110 | nÃºmero=130 | tÃ­tulo=Muito me perseguiram | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=111 | nÃºmero=131 | tÃ­tulo=Não está aqui, ressuscitou | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=112 | nÃºmero=132 | tÃ­tulo=Não há nele aparência | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=113 | nÃºmero=133 | tÃ­tulo=Noli me tangere | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=114 | nÃºmero=134 | tÃ­tulo=Ó céus, chovei do alto | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=115 | nÃºmero=135 | tÃ­tulo=O combate escatológico | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=116 | nÃºmero=136 | tÃ­tulo=Ó Deus, pelo Teu nome, salva-me | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=117 | nÃºmero=137 | tÃ­tulo=Ó Deus, Tu és meu Deus | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=118 | nÃºmero=138 | tÃ­tulo=O Espírito do Senhor está sobre mim | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=119 | nÃºmero=139 | tÃ­tulo=Ó Jesus, meu amor | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=120 | nÃºmero=140 | tÃ­tulo=O lagareiro | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=121 | nÃºmero=141 | tÃ­tulo=O Messias, leão para vencer | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=122 | nÃºmero=142 | tÃ­tulo=Ó morte, onde está a tua vitória? | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=123 | nÃºmero=143 | tÃ­tulo=O néscio pensa que Deus não existe | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=124 | nÃºmero=144 | tÃ­tulo=O povo que caminhava nas trevas | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=125 | nÃºmero=145 | tÃ­tulo=O Senhor anuncia uma notícia | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=126 | nÃºmero=146 | tÃ­tulo=O Senhor é meu pastor | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=127 | nÃºmero=147 | tÃ­tulo=O Senhor é minha luz e salvação | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=128 | nÃºmero=148 | tÃ­tulo=O Senhor me deu | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=129 | nÃºmero=149 | tÃ­tulo=Ó Senhor, nosso Deus | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=130 | nÃºmero=150 | tÃ­tulo=Olhai que estupendo | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=131 | nÃºmero=151 | tÃ­tulo=Os meninos de Belém | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=132 | nÃºmero=152 | tÃ­tulo=Para ti morada santa | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=133 | nÃºmero=153 | tÃ­tulo=Pentecostes | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=134 | nÃºmero=154 | tÃ­tulo=Por amor de meus amigos | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=135 | nÃºmero=155 | tÃ­tulo=Por que confabulam as nações? | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=136 | nÃºmero=156 | tÃ­tulo=Por que esta noite é diferente | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=137 | nÃºmero=157 | tÃ­tulo=Porque o meu jugo é suave | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=138 | nÃºmero=158 | tÃ­tulo=Quando Israel saiu do Egito | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=139 | nÃºmero=159 | tÃ­tulo=Quando o Senhor | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=140 | nÃºmero=160 | tÃ­tulo=Que estupendo, que alegria | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=141 | nÃºmero=161 | tÃ­tulo=Quem é esta que sobe do deserto | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=142 | nÃºmero=162 | tÃ­tulo=Quem nos separará | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=143 | nÃºmero=163 | tÃ­tulo=Quero andar | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=144 | nÃºmero=164 | tÃ­tulo=Quero cantar | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=145 | nÃºmero=165 | tÃ­tulo=Resurrexit | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=146 | nÃºmero=166 | tÃ­tulo=Salve Rainha | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=147 | nÃºmero=167 | tÃ­tulo=Salve Rainha dos céus | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=148 | nÃºmero=168 | tÃ­tulo=Se hoje escutardes a sua voz | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=149 | nÃºmero=169 | tÃ­tulo=Se me refugiei no Senhor | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=150 | nÃºmero=170 | tÃ­tulo=Se o Senhor não constrói a casa | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=151 | nÃºmero=171 | tÃ­tulo=Se vós ressuscitastes com Cristo | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=152 | nÃºmero=172 | tÃ­tulo=Seduziste-me Senhor | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=153 | nÃºmero=173 | tÃ­tulo=Senhor, ajuda-me a não duvidar de Ti | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=154 | nÃºmero=174 | tÃ­tulo=Senhor, não me corrijas na tua cólera | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=155 | nÃºmero=175,176 | tÃ­tulo=Sequência De Corpus Christi | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=155 | nÃºmero=175,176 | tÃ­tulo=Sequência De Corpus Christi | pÃ¡gina=2 | regiÃµes candidatas=6 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=156 | nÃºmero=177 | tÃ­tulo=Sermão da montanha | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=157 | nÃºmero=178 | tÃ­tulo=Shlom-lej Mariam | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=158 | nÃºmero=179 | tÃ­tulo=Sião, mãe de todos os povos | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=159 | nÃºmero=180 | tÃ­tulo=Só a só | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=160 | nÃºmero=181 | tÃ­tulo=Sobe Deus entre aclamações | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=161 | nÃºmero=182 | tÃ­tulo=Stabat Mater dolorosa | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=162 | nÃºmero=183 | tÃ­tulo=Tu cobriste de vergonha a morte | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=163 | nÃºmero=184 | tÃ­tulo=Tu és digno de receber o livro | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=164 | nÃºmero=185 | tÃ­tulo=Tu és formoso | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=165 | nÃºmero=186 | tÃ­tulo=Tu que és fiel | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=166 | nÃºmero=187 | tÃ­tulo=Um grande sinal | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=167 | nÃºmero=188 | tÃ­tulo=Um rebento brota do tronco de Jessé | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=168 | nÃºmero=189 | tÃ­tulo=Uri, uri, uri urá | pÃ¡gina=1 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=169 | nÃºmero=190 | tÃ­tulo=Vamos já, pastores | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=170 | nÃºmero=191 | tÃ­tulo=Vem do Líbano | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=171 | nÃºmero=192 | tÃ­tulo=Vem, Espírito Santo | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=172 | nÃºmero=193 | tÃ­tulo=Vem, Filho do homem | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=173 | nÃºmero=194 | tÃ­tulo=Vem o Senhor | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=174 | nÃºmero=195 | tÃ­tulo=Veni Creator | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=175 | nÃºmero=196 | tÃ­tulo=Virgem da maravilha | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=176 | nÃºmero=197 | tÃ­tulo=Vivei alegres | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=177 | nÃºmero=198 | tÃ­tulo=Vós sois a luz do mundo | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=178 | nÃºmero=199 | tÃ­tulo=Vos tomarei dentre as nações | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=179 | nÃºmero=200 | tÃ­tulo=Zaqueu | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=180 | nÃºmero=245 | tÃ­tulo=Como o impulso que sente a ira | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=181 | nÃºmero=246 | tÃ­tulo=Débora | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=182 | nÃºmero=247 | tÃ­tulo=Eis que o nosso espelho é o Senhor | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=183 | nÃºmero=248 | tÃ­tulo=Hino à cruz gloriosa | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=184 | nÃºmero=249 | tÃ­tulo=Jacó | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=185 | nÃºmero=250 | tÃ­tulo=Não resistais ao mal | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=186 | nÃºmero=251 | tÃ­tulo=Não sofras pelos malvados | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=187 | nÃºmero=252 | tÃ­tulo=Ninguém pode servir a dois senhores | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=188 | nÃºmero=253 | tÃ­tulo=O mesmo Deus | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=189 | nÃºmero=254 | tÃ­tulo=O semeador | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=190 | nÃºmero=255 | tÃ­tulo=Ó Senhor, meu coração não é pretensioso | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=191 | nÃºmero=256 | tÃ­tulo=Quando dormia | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=192 | nÃºmero=257 | tÃ­tulo=Senhor, tu me escrutas e conheces | pÃ¡gina=1 | regiÃµes candidatas=20 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=193 | nÃºmero=258 | tÃ­tulo=Senta-te solitário e silencioso | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=194 | nÃºmero=259 | tÃ­tulo=Shemá Israel | pÃ¡gina=1 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=195 | nÃºmero=260 | tÃ­tulo=Tu és a minha esperança, Senhor | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=196 | nÃºmero=261 | tÃ­tulo=À ceia do cordeiro | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=197 | nÃºmero=262 | tÃ­tulo=A pomba voou | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=198 | nÃºmero=263 | tÃ­tulo=Como escorre o mel | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=200 | nÃºmero=264 | tÃ­tulo=Como Lírio Entre Os Espinhos | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=201 | nÃºmero=265 | tÃ­tulo=Formosa és, amiga minha | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=202 | nÃºmero=266 | tÃ­tulo=Onde Te Escondeste, Amado | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=203 | nÃºmero=267 | tÃ­tulo=Roubaste o meu coração | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=204 | nÃºmero=268 | tÃ­tulo=Suba O Esposo Ao Lenho Do Seu Tálamo | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=205 | nÃºmero=201 | tÃ­tulo=Aclamação Ao Evangelho I | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=206 | nÃºmero=202 | tÃ­tulo=Aclamação Ao Evangelho Ii | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=207 | nÃºmero=203 | tÃ­tulo=Aclamações Às Orações Dos Fiéis | pÃ¡gina=1 | regiÃµes candidatas=11 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=209 | nÃºmero=204 | tÃ­tulo=Aleluia Pascal | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=210 | nÃºmero=205 | tÃ­tulo=Aleluia Pascal II | pÃ¡gina=1 | regiÃµes candidatas=10 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=211 | nÃºmero=206 | tÃ­tulo=Amém, amém, amém | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=212 | nÃºmero=207 | tÃ­tulo=Anáfora do Sal | pÃ¡gina=1 | regiÃµes candidatas=26 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=215 | nÃºmero=208,209 | tÃ­tulo=Benção da Água | pÃ¡gina=1 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=215 | nÃºmero=208,209 | tÃ­tulo=Benção da Água | pÃ¡gina=2 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=217 | nÃºmero=210 | tÃ­tulo=Celebração Penitencial | pÃ¡gina=1 | regiÃµes candidatas=27 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=218 | nÃºmero=211 | tÃ­tulo=Cordeiro de Deus | pÃ¡gina=1 | regiÃµes candidatas=11 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=219 | nÃºmero=212 | tÃ­tulo=Credo | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=220 | nÃºmero=213 | tÃ­tulo=Glória a Deus no alto do céu | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=222 | nÃºmero=214,215 | tÃ­tulo=Ladainha de todos os Santos | pÃ¡gina=1 | regiÃµes candidatas=11 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=222 | nÃºmero=214,215 | tÃ­tulo=Ladainha de todos os Santos | pÃ¡gina=2 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=223 | nÃºmero=216 | tÃ­tulo=Ladainha Penitencial I | pÃ¡gina=1 | regiÃµes candidatas=15 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=224 | nÃºmero=217 | tÃ­tulo=Ladainha Penitencial II | pÃ¡gina=1 | regiÃµes candidatas=9 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=225 | nÃºmero=218,219,220 | tÃ­tulo=Oração Eucarística II | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=225 | nÃºmero=218,219,220 | tÃ­tulo=Oração Eucarística II | pÃ¡gina=2 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=225 | nÃºmero=218,219,220 | tÃ­tulo=Oração Eucarística II | pÃ¡gina=3 | regiÃµes candidatas=25 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=226 | nÃºmero=221,222,223,224 | tÃ­tulo=Oração Eucarística IV | pÃ¡gina=1 | regiÃµes candidatas=28 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=226 | nÃºmero=221,222,223,224 | tÃ­tulo=Oração Eucarística IV | pÃ¡gina=2 | regiÃµes candidatas=22 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=226 | nÃºmero=221,222,223,224 | tÃ­tulo=Oração Eucarística IV | pÃ¡gina=3 | regiÃµes candidatas=24 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=226 | nÃºmero=221,222,223,224 | tÃ­tulo=Oração Eucarística IV | pÃ¡gina=4 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=227 | nÃºmero=225 | tÃ­tulo=Pai Nosso | pÃ¡gina=1 | regiÃµes candidatas=12 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=228 | nÃºmero=226,227 | tÃ­tulo=Precônio Pascal | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=228 | nÃºmero=226,227 | tÃ­tulo=Precônio Pascal | pÃ¡gina=2 | regiÃµes candidatas=21 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=233 | nÃºmero=228 | tÃ­tulo=Prefácio Para O Advento E Natal | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=234 | nÃºmero=229 | tÃ­tulo=Prefácio Para O Tempo Pascal | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=236 | nÃºmero=232 | tÃ­tulo=Salmodia para as Orações Universais | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=237 | nÃºmero=233 | tÃ­tulo=Salmodia Para O Evangelho | pÃ¡gina=1 | regiÃµes candidatas=19 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=238 | nÃºmero=234 | tÃ­tulo=Salmodia Para O Rosário | pÃ¡gina=1 | regiÃµes candidatas=9 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=239 | nÃºmero=235 | tÃ­tulo=Salmodia para o Salmo Responsorial | pÃ¡gina=1 | regiÃµes candidatas=14 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=240 | nÃºmero=236 | tÃ­tulo=Salmodia Vi | pÃ¡gina=1 | regiÃµes candidatas=23 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=241 | nÃºmero=237 | tÃ­tulo=Salmodias Para As Laudes | pÃ¡gina=1 | regiÃµes candidatas=26 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=242 | nÃºmero=238 | tÃ­tulo=Santo 1982 | pÃ¡gina=1 | regiÃµes candidatas=18 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=243 | nÃºmero=239 | tÃ­tulo=Santo 1988 | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=244 | nÃºmero=240 | tÃ­tulo=Santo Hebraico | pÃ¡gina=1 | regiÃµes candidatas=13 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=245 | nÃºmero=241 | tÃ­tulo=Santo Palestina 74 | pÃ¡gina=1 | regiÃµes candidatas=16 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=246 | nÃºmero=242 | tÃ­tulo=Santo Palomeras 65 | pÃ¡gina=1 | regiÃµes candidatas=10 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=247 | nÃºmero=243 | tÃ­tulo=Santo Roma 77 | pÃ¡gina=1 | regiÃµes candidatas=17 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+cantoId=249 | nÃºmero=244 | tÃ­tulo=Te Deum | pÃ¡gina=1 | regiÃµes candidatas=10 | motivo=NÃ£o hÃ¡ fonte textual local nem identidade/tom original confirmados.
+
+PROCESSAMENTO OFFLINE DE RECONHECIMENTO
+Candidatos vermelhos originais: 4387
+Agrupamentos formados: 4387
+Candidatos em revisÃ£o humana: 4351
+Grupos visuais para revisÃ£o: 2008
+Cobertura estruturada existente (canto 1, fora da fila): 14
+Materiais de referÃªncia fora da fila: 22
+Cantos com transposiÃ§Ã£o adicional completa nesta etapa: 0
+Cantos ainda em revisÃ£o: 235
+Nenhum acorde adicional foi adicionado ao aplicativo sem revisÃ£o e validaÃ§Ã£o.
