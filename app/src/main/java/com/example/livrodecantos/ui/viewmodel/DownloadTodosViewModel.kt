@@ -22,6 +22,10 @@ data class DownloadTodosUiState(
 
     val concluido: Boolean = false,
 
+    val estadoTrabalho: WorkInfo.State? = null,
+
+    val mensagemFinal: String? = null,
+
     val total: Int = 0,
 
     val processados: Int = 0,
@@ -74,6 +78,8 @@ class DownloadTodosViewModel(
                     NetworkType.CONNECTED
                 )
 
+                .setRequiresStorageNotLow(true)
+
                 .build()
 
 
@@ -122,7 +128,8 @@ class DownloadTodosViewModel(
 
                     val info =
                         trabalhos
-                            .firstOrNull()
+                            .firstOrNull { !it.state.isFinished }
+                            ?: trabalhos.firstOrNull()
                             ?: return@collect
 
 
@@ -155,6 +162,20 @@ class DownloadTodosViewModel(
                             concluido =
                                 info.state ==
                                         WorkInfo.State.SUCCEEDED,
+
+                            estadoTrabalho = info.state,
+
+                            mensagemFinal = when (info.state) {
+                                WorkInfo.State.FAILED ->
+                                    info.outputData.getString(
+                                        DownloadTodosAudiosWorker.CHAVE_ERRO
+                                    ) ?: "Não foi possível concluir o download dos áudios."
+
+                                WorkInfo.State.CANCELLED ->
+                                    "Download cancelado. Os áudios já concluídos foram preservados."
+
+                                else -> null
+                            },
 
                             total =
                                 dados.getInt(

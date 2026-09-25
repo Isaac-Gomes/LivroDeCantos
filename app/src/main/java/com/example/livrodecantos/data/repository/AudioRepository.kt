@@ -3,6 +3,7 @@ package com.example.livrodecantos.data.repository
 import android.content.Context
 import com.example.livrodecantos.data.dao.CantoDao
 import com.example.livrodecantos.model.Canto
+import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.File
@@ -65,7 +66,7 @@ class AudioRepository(
             Dispatchers.IO
         ) {
 
-            runCatching {
+            val resultado = runCatching {
 
                 // ------------------------------------
                 // 1. JÁ EXISTE LOCALMENTE?
@@ -147,7 +148,9 @@ class AudioRepository(
                     !pastaAudios.exists()
                 ) {
 
-                    pastaAudios.mkdirs()
+                    check(pastaAudios.mkdirs() || pastaAudios.exists()) {
+                        "Não foi possível criar a pasta de áudios."
+                    }
                 }
 
 
@@ -226,6 +229,14 @@ class AudioRepository(
 
                 arquivoFinal
             }
+
+            resultado.exceptionOrNull()?.let { erro ->
+                if (erro is CancellationException) {
+                    throw erro
+                }
+            }
+
+            resultado
         }
     }
 

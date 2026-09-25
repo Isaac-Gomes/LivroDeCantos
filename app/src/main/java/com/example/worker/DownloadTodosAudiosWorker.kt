@@ -2,19 +2,24 @@ package com.example.livrodecantos.worker
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
+import android.content.pm.ServiceInfo
 import android.content.Context
 import android.os.Build
+import android.util.Log
 import androidx.core.app.NotificationCompat
 import androidx.work.CoroutineWorker
 import androidx.work.Data
 import androidx.work.ForegroundInfo
 import androidx.work.WorkerParameters
+import androidx.work.WorkManager
 import com.example.livrodecantos.data.database.RessuscitouDatabase
 import com.example.livrodecantos.data.entity.CantoEntity
 import com.example.livrodecantos.data.repository.AudioRepository
 import com.example.livrodecantos.model.Canto
 import com.example.livrodecantos.model.Etapa
 import java.io.File
+import java.io.IOException
+import kotlinx.coroutines.CancellationException
 
 
 class DownloadTodosAudiosWorker(
@@ -50,6 +55,12 @@ class DownloadTodosAudiosWorker(
         const val CHAVE_TITULO =
             "titulo"
 
+        const val CHAVE_ERRO =
+            "erro"
+
+        private const val TAG =
+            "DownloadTodosWorker"
+
 
         private const val CANAL_ID =
             "download_audios"
@@ -65,6 +76,28 @@ class DownloadTodosAudiosWorker(
     // ====================================================
 
     override suspend fun doWork():
+            Result {
+
+        return try {
+            executarDownloads()
+        } catch (erro: CancellationException) {
+            Log.i(TAG, "Download em massa cancelado pelo WorkManager (motivo: $stopReason).", erro)
+            throw erro
+        } catch (erro: IOException) {
+            Log.e(TAG, "Falha temporária fora do download individual.", erro)
+            if (runAttemptCount < 2) {
+                Result.retry()
+            } else {
+                resultadoFalhaGlobal()
+            }
+        } catch (erro: Exception) {
+            Log.e(TAG, "Falha irrecuperável no download em massa.", erro)
+            resultadoFalhaGlobal()
+        }
+    }
+
+
+    private suspend fun executarDownloads():
             Result {
 
         criarCanalNotificacao()
@@ -194,7 +227,8 @@ class DownloadTodosAudiosWorker(
             if (
                 isStopped
             ) {
-                break
+                Log.i(TAG, "Worker interrompido antes de concluir o lote (motivo: $stopReason).")
+                return Result.retry()
             }
 
 
@@ -257,6 +291,12 @@ class DownloadTodosAudiosWorker(
             ) {
 
                 falhas++
+
+                Log.e(
+                    TAG,
+                    "Falha ao baixar o áudio de ${canto.titulo}.",
+                    resultado.exceptionOrNull()
+                )
             }
 
 
@@ -286,20 +326,6 @@ class DownloadTodosAudiosWorker(
             )
 
 
-            setForeground(
-
-                criarForegroundInfo(
-
-                    processados =
-                        processados,
-
-                    total =
-                        total,
-
-                    titulo =
-                        canto.titulo
-                )
-            )
         }
 
 
@@ -335,6 +361,19 @@ class DownloadTodosAudiosWorker(
     }
 
 
+    private fun resultadoFalhaGlobal(): Result {
+
+        return Result.failure(
+            Data.Builder()
+                .putString(
+                    CHAVE_ERRO,
+                    "Não foi possível concluir o download dos áudios."
+                )
+                .build()
+        )
+    }
+
+
     // ====================================================
     // DADOS DE PROGRESSO
     // ====================================================
@@ -360,12 +399,12 @@ class DownloadTodosAudiosWorker(
 
             .putInt(
                 CHAVE_PROCESSADOS,
-                processados
+                processados.coerceIn(0, total)
             )
 
             .putInt(
                 CHAVE_FALHAS,
-                falhas
+                falhas.coerceIn(0, processados.coerceIn(0, total))
             )
 
             .putString(
@@ -391,6 +430,21 @@ class DownloadTodosAudiosWorker(
 
     ): ForegroundInfo {
 
+        val totalSeguro = total.coerceAtLeast(1)
+        val processadosSeguros = processados.coerceIn(0, totalSeguro)
+        val percentual = if (total > 0) {
+            (processadosSeguros * 100) / total
+        } else {
+            0
+        }
+
+        val textoProgresso =
+            if (total > 0) {
+                "$processadosSeguros de $total • $percentual%"
+            } else {
+                "Preparando downloads..."
+            }
+
         val notification =
 
             NotificationCompat
@@ -404,21 +458,20 @@ class DownloadTodosAudiosWorker(
                 )
 
                 .setContentTitle(
-                    "Ressuscitou"
+                    "${applicationContext.getString(com.example.livrodecantos.R.string.app_name)} — Baixando áudios"
                 )
 
                 .setContentText(
+                    textoProgresso
+                )
 
-                    if (
-                        total > 0
-                    ) {
+                .setSubText(
+                    "Agora: $titulo"
+                )
 
-                        "Baixando $processados de $total • $titulo"
-
-                    } else {
-
-                        "Preparando downloads..."
-                    }
+                .setStyle(
+                    NotificationCompat.BigTextStyle()
+                        .bigText("$textoProgresso\nAgora: $titulo")
                 )
 
                 .setOnlyAlertOnce(
@@ -430,16 +483,17 @@ class DownloadTodosAudiosWorker(
                 )
 
                 .setProgress(
-
-                    total.coerceAtLeast(
-                        1
-                    ),
-
-                    processados.coerceAtMost(
-                        total
-                    ),
-
+                    totalSeguro,
+                    processadosSeguros,
                     false
+                )
+
+                .addAction(
+                    android.R.drawable.ic_menu_close_clear_cancel,
+                    "Cancelar",
+                    WorkManager
+                        .getInstance(applicationContext)
+                        .createCancelPendingIntent(id)
                 )
 
                 .build()
@@ -449,7 +503,9 @@ class DownloadTodosAudiosWorker(
 
             NOTIFICACAO_ID,
 
-            notification
+            notification,
+
+            ServiceInfo.FOREGROUND_SERVICE_TYPE_DATA_SYNC
         )
     }
 
@@ -486,7 +542,7 @@ class DownloadTodosAudiosWorker(
 
 
             channel.description =
-                "Downloads offline do Ressuscitou"
+                "Downloads offline do ${applicationContext.getString(com.example.livrodecantos.R.string.app_name)}"
 
 
             manager.createNotificationChannel(

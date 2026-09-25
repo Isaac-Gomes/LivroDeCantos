@@ -432,6 +432,13 @@ fun TelaAudiosOffline(
                         text =
 
                             if (
+                                estadoDownload.estadoTrabalho == androidx.work.WorkInfo.State.ENQUEUED
+
+                            ) {
+
+                                "Aguardando condições..."
+
+                            } else if (
                                 estadoDownload.executando
                             ) {
 
@@ -510,6 +517,13 @@ fun TelaAudiosOffline(
                         text =
 
                             if (
+                                estadoDownload.estadoTrabalho == androidx.work.WorkInfo.State.ENQUEUED
+
+                            ) {
+
+                                "Aguardando conexão e espaço disponível..."
+
+                            } else if (
                                 total > 0
                             ) {
 
@@ -627,6 +641,27 @@ fun TelaAudiosOffline(
                             Modifier.padding(
                                 top = 10.dp
                             )
+                    )
+                }
+
+                estadoDownload.mensagemFinal?.let { mensagem ->
+
+                    Text(
+
+                        text = mensagem,
+
+                        color =
+                            if (estadoDownload.estadoTrabalho == androidx.work.WorkInfo.State.FAILED) {
+                                Color(0xFFFF8A80)
+                            } else {
+                                Color(0xFFFFB74D)
+                            },
+
+                        fontSize = 13.sp,
+
+                        modifier = Modifier.padding(
+                            top = 10.dp
+                        )
                     )
                 }
 
